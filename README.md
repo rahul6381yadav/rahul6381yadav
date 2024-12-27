@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul Yadav</h1> <h3 align="center">A passionate Frontend and Backend Developer from India</h3>
+<h1 align="center">Hi, I'm Rahul Yadav</h1> <h3 align="center">A passionate Frontend and Backend Developer from India</h3>
 🔭 Projects I've Worked On:
 
 Alumni Connect App
