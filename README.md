@@ -21,7 +21,7 @@ I build ML/DL systems, full-stack apps, and applied NLP/LLM solutions — and I'
 
 - 🔭 Currently researching **multi-course contrastive learning for knowledge tracing** at IIT Madras (WSAI Lab)
 - 🧠 Deep interest in **Agentic AI, RAG/Graph RAG, and on-device ML**
-- 🏆 Qualified **GATE 2026 (CSE)**; Top 1,600/11,000+ in Flipkart GRiD 2.0; AIR 55 in AINCAT
+- 🏆 Qualified **GATE 2026 (CSE)**; Top 1,600/11,000+ in Flipkart Gridlock 2.0; AIR 55 in AINCAT
 - 🌱 Building offline, privacy-first mobile AI (see Vision AI below)
 - ⚡ Fun fact: I once cut a project's cloud bill from $30 → $5/month by optimizing backend resource usage
 
